@@ -1,1 +1,2 @@
-# TP_ML
+# TP sur les CNN
+
